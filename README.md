@@ -1,2 +1,3 @@
 # Git-Renner-Aula01
-Conceitos e praticas de github
+Conceitos e praticas de githb
+Aprendizado!
